@@ -4,7 +4,7 @@ The main purpose of the code to see if I can build a static page with Scala.js D
 
 The key differences are 
 
-* I can directly use Scala JS DOM API and JQuery with out using Javascript directly.  
+* use Scala JS DOM API and JQuery with out using Javascript directly.  
 * The codes are type-safe
 * The scala constants can be directly in the function that's usually used in the javascripts. 
 * The code will be using Scala-Js-Workbench to do auto-compile the code via SBT. 
