@@ -1,6 +1,14 @@
-A DEAD SIMPLE PAGE BUILD USING SCALA.JS
+A SIMPLE PAGE USING SCALA.JS
 
-The main purpose of the code to see if I can build a static page with Scala.js DOM API
+The main purpose of the code to see if I can build a static page with Scala.js DOM API. This is dead simple page directly translated from the corresponding HTML page. 
+
+The key differences are 
+
+* I can directly use Scala JS DOM API and JQuery with out using Javascript directly.  
+* The codes are type-safe
+* The scala constants can be directly in the function that's usually used in the javascripts. 
+* The code will be using Scala-Js-Workbench to do auto-compile the code via SBT. 
+* 
 
 
 
