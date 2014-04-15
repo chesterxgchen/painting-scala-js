@@ -1,1 +1,1 @@
-ScalaJS.modules.paintings_PaintingSite().main();
+ScalaJS.modules.paintings_Paintings().main();

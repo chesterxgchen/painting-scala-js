@@ -3,7 +3,7 @@ package paintings
 import org.scalajs.dom
 
 
-object PaintingSite {
+object Paintings {
 
   def main(): Unit = {
     import Page._
