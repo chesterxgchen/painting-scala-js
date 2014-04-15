@@ -1,4 +1,4 @@
-# Paintings
+# Painting-Scala-JS
 
 ##Build a simple one page with Scala.js
 
