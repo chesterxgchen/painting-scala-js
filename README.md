@@ -1,4 +1,6 @@
-A SIMPLE PAGE USING SCALA.JS
+Build a simple one page with Scala.js
+
+Paintings
 
 The main purpose of the code to see if I can build a static page with Scala.js DOM API. This is dead simple page directly translated from the corresponding HTML page. 
 
