@@ -65,6 +65,7 @@ object Page {
     meta(httpEquiv := "Content-Type", content := "text/html; charset=utf-8"),
     for (s <- styleFiles) yield addStyleLink(s),
     for (js <- jsFiles) yield addJavaScriptFile(js)
+
   )
 
   def pageContent = ul(`class` := "publications-table")(segment.toSeq)

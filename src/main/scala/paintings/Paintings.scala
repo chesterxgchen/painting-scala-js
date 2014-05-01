@@ -12,6 +12,5 @@ object Paintings {
     dom.document.body.innerHTML = pageBody.toString()
     dom.document.getElementById("publication-table").innerHTML = pageContent().toString()
 
-
   }
 }
